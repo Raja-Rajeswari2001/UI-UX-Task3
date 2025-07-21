@@ -1,4 +1,10 @@
-# React + Vite
+# Hospital Management Chatbot (Task 3)
+
+<img width="1794" height="928" alt="Screenshot from 2025-07-20 23-24-12" src="https://github.com/user-attachments/assets/42cb255b-e266-414e-b821-fb2bc110a043" />
+<img width="1794" height="928" alt="Screenshot from 2025-07-20 23-24-54" src="https://github.com/user-attachments/assets/986876a5-4e8f-46b9-9e8b-9425e7745503" 
+  <img width="1794" height="928" alt="Screenshot from 2025-07-20 23-25-23" src="https://github.com/user-attachments/assets/7c128654-16e9-4446-b9df-9975f73b7307" />
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
